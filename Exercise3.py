@@ -4,7 +4,7 @@ numanswer = int(input("Please enter a number: "))
 
 def newlist(numanswer):
 
-	a = [1,1,2,3,5,8,13,21,34,55,89,98,102,123,144,156,200,232,345]
+	a = [1,1,2,3,5,8,13,21,34,55,89,98,102,123,144,156,200,232]
 	new_list = []
 
 	for element in a:
