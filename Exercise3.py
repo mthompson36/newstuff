@@ -4,7 +4,11 @@ numanswer = int(input("Please enter a number: "))
 
 def newlist(numanswer):
 
+<<<<<<< HEAD
 	a = [1,1,2,3,5,8,13,21,34,55,89,98,102,123,144,156,200,232]
+=======
+	a = [1,1,2,3,5,8,13,21,34,55,89,98,102,123,144,156,200,232,300]
+>>>>>>> newbranch
 	new_list = []
 
 	for element in a:
