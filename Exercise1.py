@@ -1,9 +1,5 @@
 #This will ask for name and age and tell you when you'll be 100. Using raw_input instead of 'input' cuz python 2 uses raw_input. Can run python3 exercise1.py with 'input'
-<<<<<<< HEAD
-year = 2020
-=======
 year = 2018
->>>>>>> newbranch
 name = raw_input("What is your name?")
 print("Your name is: " + str(name))
 age = int(raw_input("How old are you?"))
