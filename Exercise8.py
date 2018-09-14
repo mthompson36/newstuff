@@ -1,3 +1,5 @@
+#This is a rocks paper scissors game.
+
 import random
 class RockPaperScissors():
 	def twoplayergame(self):
